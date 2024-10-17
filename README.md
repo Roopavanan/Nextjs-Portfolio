@@ -4,12 +4,11 @@
 
 ![Nextjs Portfolio Website](https://github.com/Roopavanan/Nextjs-Portfolio/blob/main/websiteimages/Light_Homepage.png)
 ![Nextjs Portfolio Website Dark Mode](https://github.com/Roopavanan/Nextjs-Portfolio/blob/main/websiteimages/Dark-homepage.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
+![Next.js Portfolio Website](https://github.com/Roopavanan/Nextjs-Portfolio/blob/main/websiteimages/Light_aboutpage.png)
+![Next js Portfolio Website](https://github.com/Roopavanan/Nextjs-Portfolio/blob/main/websiteimages/light_porjectpage.png)
+![Responsive Portfolio Website In Nextjs](https://github.com/Roopavanan/Nextjs-Portfolio/blob/main/websiteimages/Mobile_aboutpage.png)
+![Responsive Portfolio Website In Next js](https://github.com/Roopavanan/Nextjs-Portfolio/blob/main/websiteimages/mob-projectpage.png))
+![Mobile Responsive Portfolio Website In Next.js](https://github.com/Roopavanan/Nextjs-Portfolio/blob/main/websiteimages/Mobile%20verison_page.png)
 
 
 ### Resources Used in This Project
